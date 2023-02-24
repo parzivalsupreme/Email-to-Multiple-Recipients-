@@ -14,7 +14,7 @@ To run this script, you will need:
 * Save the script
 * Run the script by typing python send_email.py in your terminal
 
-# Code Explanation
+## Code Explanation
 The script uses the SMTP library to send an email to multiple recipients. Here's how it works:
 
 * The recipients variable is a list of email addresses to send the email to.
